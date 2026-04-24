@@ -19,16 +19,16 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini](./photo1.jpeg)
+![screenshot HP fisik di sini](./photo1.jpeg)
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini](./photo2.jpeg)
+![screenshot HP fisik di sini](./photo2.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini](./photo3.jpeg)
+![screenshot HP fisik di sini](./photo3.jpeg)
 
 ### Tampilan Bonus — saat membuka keranjang
-[screenshot HP fisik di sini](./photo4.jpeg)
+![screenshot HP fisik di sini](./photo4.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [https://github.com/riskensitorus/pemmobile-p06-risken]
